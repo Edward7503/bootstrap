@@ -291,6 +291,10 @@
 }
 
 // Tooltips
+.tooltip {
+  z-index: 1;
+}
+
 .bd-example-tooltips {
   text-align: center;
 }
@@ -312,6 +316,10 @@
 }
 
 // Popovers
+.popover {
+  z-index: 1;
+}
+
 .bd-example-popover-static {
   padding-bottom: 1.5rem;
   background-color: #f9f9f9;
